@@ -6,10 +6,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MAURICIO1w/MAURICIO1w/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">🛠 Linguagem e ferramentas</h3>
 
 ###
